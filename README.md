@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Rose Kamal Love</h1>
-<h1 align="center">A Web-Developer, Competive Coder and a Hobbyist Photographer</h1>
+<h1 align="center">A Web-Developer, Competitive Coder and a Hobbyist Photographer</h1>
 
 <br />
 
