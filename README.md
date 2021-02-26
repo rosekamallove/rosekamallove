@@ -22,7 +22,15 @@
 </p>
 
 ---
-[![Spotify](https://rosekamallove.vercel.app/api/novatorem)](https://open.spotify.com/user/06ezdo4cuy7aveb90kn072g9d)
+
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/06ezdo4cuy7aveb90kn072g9d)
+
+<!-- [![Spotify](https://spotifyplaying-rosekamallove.vercel.app/api/spotify)](https://open.spotify.com/user/) -->
+
+
+
+
 
 <!-- [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/rosekamallove)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://rosekamallove.github.io)
