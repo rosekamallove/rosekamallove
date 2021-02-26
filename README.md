@@ -1,14 +1,18 @@
 <h1 align="center">Hey! I'm Rose Kamal Love</h1>
 <h1 align="center">A Web-Developer, Competitive Coder and a Hobbyist Photographer</h1>
+<p align="center">
+  <img src="https://octodex.github.com/images/nyantocat.gif" width="30%">
 
 <br />
 
 <br />
 
+<p align="center">
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/rosekamallove)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://rosekamallove.github.io)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rose-kamal-love-1146141b0/)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/RoseKamalLove1)
+</p>
 
 
 <br />
@@ -37,14 +41,19 @@
 <br />
 
 ---
-
+![Rose kamal's github activity graph](https://activity-graph.herokuapp.com/graph?username=rosekamallove&theme=gruvbox)
 ![Rosek's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosekamallove&count_private=true&show_icons=true&theme=gruvbox)
 ---
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rosekamallove&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rosekamallove" alt="RoseKamalLove" /> 
+</p>
 
 
 [website]: https://rosekamallove.github.io/
 [twitter]: https://twitter.com/RoseKamalLove1/
 [instagram]: https://instagram.com/rosekamallove/
 [linkedin]: https://www.linkedin.com/in/rose-kamal-love-1146141b0/
+
