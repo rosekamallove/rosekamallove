@@ -1,3 +1,4 @@
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 <h1 align="center">Hey! I'm Rose Kamal Love</h1>
 <h1 align="center">A Web-Developer, Competitive Coder and a Hobbyist Photographer</h1>
 <p align="center">
@@ -36,8 +37,6 @@
 
 <h2 align="center"> Tools && Tech</h2>
 
-
-<br />
 <p align="center">
 <img align="center" alt="VIM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -50,6 +49,7 @@
 <img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="center" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="center" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
+
 </p>
 <br />
 <br />
@@ -57,8 +57,8 @@
 ---
 <details open>
 
-<p align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="30%">
+<!-- <p align="center">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="30%"> -->
 
  <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=rosekamallove&show_icons=true&line_height=27&theme=gruvbox"><br>
