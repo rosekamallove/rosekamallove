@@ -24,7 +24,7 @@
 ---
 
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/06ezdo4cuy7aveb90kn072g9d)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" align="center" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/06ezdo4cuy7aveb90kn072g9d)
 
 <!-- [![Spotify](https://spotifyplaying-rosekamallove.vercel.app/api/spotify)](https://open.spotify.com/user/) -->
 
