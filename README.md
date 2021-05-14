@@ -36,9 +36,7 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rose-kamal-love-1146141b0/)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/RoseKamalLove1) -->
 
-<br />
 
----
 
 <h2 align="center"> Tools && Tech</h2>
 
