@@ -3,10 +3,11 @@
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-<p align="center">
+<!--><p align="center">
   <img src="https://octodex.github.com/images/nyantocat.gif" width="30%">
 <br />
 <br />
+<-->
 
 <p align="center">
 <a href="https://instagram.com/rosekamallove">
