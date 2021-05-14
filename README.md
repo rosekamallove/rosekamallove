@@ -1,5 +1,6 @@
 <h1 align="center">Hey! I'm Rose Kamal Love</h1>
 <h1 align="center">A Web-Developer, Competitive Coder and a Hobbyist Photographer</h1>
+
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <p align="center">
