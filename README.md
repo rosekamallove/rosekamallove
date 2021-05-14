@@ -1,13 +1,14 @@
 <h1 align="center">Hey! I'm Rose Kamal Love</h1>
-<h1 align="center">A Web-Developer, Competitive Coder and a Hobbyist Photographer</h1>
+<h2 align="center">A Web-Developer, Competitive Coder and a Hobbyist Photographer</h2>
+
+---
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-<!--><p align="center">
+<!-- <p align="center">
   <img src="https://octodex.github.com/images/nyantocat.gif" width="30%">
 <br />
-<br />
-<-->
+<br /> -->
 
 <p align="center">
 <a href="https://instagram.com/rosekamallove">
@@ -24,15 +25,11 @@
   </a>
 </p>
 
----
-
-<br />
-
-<p align="center">
+<!-- <p align="center">
 <a href="https://open.spotify.com/user/06ezdo4cuy7aveb90kn072g9">
 <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" align="center" alt="codeSTACKr Spotify Playing" width="350" />
 </a>
-</p>
+</p> -->
 <!-- [![Spotify](https://spotifyplaying-rosekamallove.vercel.app/api/spotify)](https://open.spotify.com/user/) -->
 
 <!-- [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/rosekamallove)
@@ -64,6 +61,7 @@
 <br />
 
 ---
+
 <details open>
 
 <!-- <p align="center">
@@ -74,18 +72,13 @@
 
 ![Rose kamal's github activity graph](https://activity-graph.herokuapp.com/graph?username=rosekamallove&theme=gruvbox)
 
-
 ---
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rosekamallove" alt="RoseKamalLove" /> 
 </p>
 
-
 [website]: https://rosekamallove.github.io/
 [twitter]: https://twitter.com/RoseKamalLove1/
 [instagram]: https://instagram.com/rosekamallove/
 [linkedin]: https://www.linkedin.com/in/rose-kamal-love-1146141b0/
-
