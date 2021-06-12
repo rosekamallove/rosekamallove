@@ -65,9 +65,9 @@
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="30%"> -->
 
  <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=rosekamallove&show_icons=true&line_height=27&theme=gruvbox"><br>
+  <img src = "https://github-readme-stats.vercel.app/api?username=rosekamallove&show_icons=true&line_height=27&theme=onedark"><br>
 
-![Rose kamal's github activity graph](https://activity-graph.herokuapp.com/graph?username=rosekamallove&theme=gruvbox)
+<!-- ![Rose kamal's github activity graph](https://activity-graph.herokuapp.com/graph?username=rosekamallove&theme=gruvbox) -->
 
 ---
 
