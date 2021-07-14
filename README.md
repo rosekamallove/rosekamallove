@@ -67,6 +67,9 @@
  <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=rosekamallove&show_icons=true&line_height=27&theme=onedark"><br>
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rosekamallove&count_private=true&theme=onedark" alt="mostlypanda" />
+
+
 <!-- ![Rose kamal's github activity graph](https://activity-graph.herokuapp.com/graph?username=rosekamallove&theme=gruvbox) -->
 
 ---
