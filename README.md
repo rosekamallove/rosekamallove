@@ -1,84 +1,21 @@
-<h1 align="center">Hey! I'm Rose Kamal Love</h1>
-<h2 align="center">A Web-Developer, Competitive Coder and a Hobbyist Photographer</h2>
+<pre>
+rosekamallove@github.com
+---------------------
+<b>Me:</b> Software Developer, Competetive Programmer and a Music Enthusiast
+<b>Education:</b> [MJPRU](http://www.mjpru.ac.in/) B. Tech (Computer Science & Information Technology) (2024)
+<b>Interests:</b> Web-Development (Full-Stack), Automation, Open Source Contribution
+<b>Languages:</b> JavaScript, C++, and Python
+<b>Frameworks:</b> ReactJS, NodeJS, ExpressJS, and Django
 
+<b>Let's get in touch!</b>
+<a href="https://github.com/rosekamallove.github.io">Portfolio</a> ϟ <a href="https://linkedin.com/in/rose-kamal-love-1146141b0/">LinkedIn</a> ϟ <a href="mailto:private.rosekamallove@gmail.com">Email</a>
+</pre>
 
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-<!-- <p align="center">
-  <img src="https://octodex.github.com/images/nyantocat.gif" width="30%">
-<br />
-<br /> -->
-
-<p align="center">
-<a href="https://instagram.com/rosekamallove">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  >
-  </a>
-  <a href="https://rosekamallove.github.io">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  >
-  </a>
-  <a href="https://www.linkedin.com/in/rose-kamal-love-1146141b0/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  >
-  </a>
-  <a href="https://twitter.com/RoseKamalLove1">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  >
-  </a>
-</p>
-
-<!-- <p align="center">
-<a href="https://open.spotify.com/user/06ezdo4cuy7aveb90kn072g9">
-<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" align="center" alt="codeSTACKr Spotify Playing" width="350" />
-</a>
-</p> -->
-<!-- [![Spotify](https://spotifyplaying-rosekamallove.vercel.app/api/spotify)](https://open.spotify.com/user/) -->
-
-<!-- [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/rosekamallove)
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://rosekamallove.github.io)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rose-kamal-love-1146141b0/)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/RoseKamalLove1) -->
-
-
-
-<h2 align="center"> Tools && Tech</h2>
-
-<p align="center">
-<code><img align="center" alt="VIM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" /></code>
-<code><img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
-<code><img align="center" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" /></code>
-<code><img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
-<code><img align="center" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<code><img align="center" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/></code>
-<code><img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-<code><img align="center" alt="PYthon" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></code>
-<code><img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
-<code><img align="center" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
-<code><img align="center" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/></code>
-
-</p>
-<br />
-<br />
-
----
-
-<details open>
-
-<!-- <p align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="30%"> -->
+<details closed>
 
  <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=rosekamallove&show_icons=true&line_height=27&theme=onedark"><br>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rosekamallove&count_private=true&theme=onedark" alt="mostlypanda" />
 
-
-<!-- ![Rose kamal's github activity graph](https://activity-graph.herokuapp.com/graph?username=rosekamallove&theme=gruvbox) -->
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rosekamallove" alt="RoseKamalLove" /> 
-</p>
-
-[website]: https://rosekamallove.github.io/
-[twitter]: https://twitter.com/RoseKamalLove1/
-[instagram]: https://instagram.com/rosekamallove/
-[linkedin]: https://www.linkedin.com/in/rose-kamal-love-1146141b0/
+![Rose kamal's github activity graph](https://activity-graph.herokuapp.com/graph?username=rosekamallove&theme=gruvbox)
