@@ -8,7 +8,7 @@ rosekamallove@github.com
 <b>Frameworks:</b> ReactJS, NodeJS, ExpressJS, and Django
 
 <b>Let's get in touch!</b>
-<a href="https://github.com/rosekamallove.github.io">Portfolio</a> ϟ <a href="https://linkedin.com/in/rose-kamal-love-1146141b0/">LinkedIn</a> ϟ <a href="mailto:private.rosekamallove@gmail.com">Email</a>
+<a href="https://rosekamallove.github.io">Portfolio</a> ϟ <a href="https://linkedin.com/in/rose-kamal-love-1146141b0/">LinkedIn</a> ϟ <a href="mailto:private.rosekamallove@gmail.com">Email</a>
 </pre>
 
 <details closed>
