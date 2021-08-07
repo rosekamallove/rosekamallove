@@ -9,6 +9,14 @@ rosekamallove@github.com
 
 <b>Let's get in touch!</b>
 <a href="https://rosekamallove.github.io">Portfolio</a> ϟ <a href="https://linkedin.com/in/rose-kamal-love-1146141b0/">LinkedIn</a> ϟ <a href="mailto:private.rosekamallove@gmail.com">Email</a>
+
+<b>Pinned Projects:<b>
+<a href="https://music-expanse.herokuapp.com/">musicRooms<a>
+<a href="https://youtemy-bc22a.web.app/">youtemy<a>
+<a href="https://goofy-sammet-fca865.netlify.app/">Porfolio-MLH<a>
+<a href="https://rosekamallove.github.io">rosekamallove.github.io<a>
+<a href="https://rosekamallove.github.io/Learn_CODE/">Learn_CODE<a>
+
 </pre>
 
 <details closed>
