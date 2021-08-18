@@ -12,7 +12,7 @@ rosekamallove@github.com
 
 <b>Pinned Projects:</b>
 <a href="https://music-expanse.herokuapp.com/">musicRooms<a>
-<a href="https://youtemy-bc22a.web.app/">youtemy<a>
+<a href="https://youtemy.tech/">youtemy<a>
 <a href="https://goofy-sammet-fca865.netlify.app/">Porfolio-MLH<a>
 <a href="https://rosekamallove.github.io">rosekamallove.github.io<a>
 <a href="https://rosekamallove.github.io/Learn_CODE/">Learn_CODE<a>
