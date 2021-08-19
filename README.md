@@ -1,6 +1,6 @@
 <pre>
 rosekamallove@github.com
-------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 <b>Me:</b>         Software Developer, Competetive Programmer and a Music Enthusiast
 <b>Education:</b>  <a href="http://www.mjpru.ac.in/">MJPRU</a> BTech (Computer Science & Information Technology) (2024)
 <b>Interests:</b>  Web-Development (Full-Stack), Automation, Open Source Contribution
