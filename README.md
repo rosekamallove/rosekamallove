@@ -5,7 +5,7 @@ rosekamallove@github.com
 <b>Education:</b>  <a href="http://www.mjpru.ac.in/">MJPRU</a> BTech (Computer Science & Information Technology) (2024)
 <b>Interests:</b>  Web-Development (Full-Stack), Automation, Open Source Contribution
 <b>Languages:</b>  JavaScript, C++, and Python
-<b>Frameworks:</b> <b>ReactJS, NodeJS, ExpressJS, Firesbase-Firestore, and Django</b>
+<b>Frameworks:</b> <b>ReactJS, NodeJS, ExpressJS, MongoDB, Firesbase-Firestore, and Django</b>
 
 <b>Let's get in touch!</b>
  <a href="https://linkedin.com/in/rose-kamal-love-1146141b0/">LinkedIn</a> ϟ <a href="https://rosekamallove.github.io">Portfolio</a> ϟ <a href="mailto:private.rosekamallove@gmail.com">Email</a>
