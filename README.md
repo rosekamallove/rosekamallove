@@ -7,9 +7,8 @@ rosekamallove@github.com
 <b>Languages :</b>  JavaScript, C++, and Python
 <b>Frameworks:</b>  <b>ReactJS, Node & Express, MongoDB, Firesbase-Firestore and, Django</b>
 ------------------------------------------------------------------------------
-
 <b>Let's get in touch!
-<a href="https://linkedin.com/in/rose-kamal-love-1146141b0/">LinkedIn</a> ϟ <a href="https://rosekamallove.github.io">Portfolio</a> ϟ <a href="mailto:private.rosekamallove@gmail.com">Email</a></b>
+<a href="https://drive.google.com/file/d/16S4zJlCyRrM5e8k66Ng69h0f1Q1aRL04/view">Resume</a> ϟ <a href="https://linkedin.com/in/rose-kamal-love-1146141b0/">LinkedIn</a> ϟ <a href="https://rosekamallove.github.io">Portfolio</a> ϟ <a href="mailto:private.rosekamallove@gmail.com">Email</a></b>
 
 <b>Pinned Projects:</b>
 <b><a href="https://youtemy.tech/">YouTemy<a></b>
