@@ -27,4 +27,6 @@ rosekamallove@github.com
 <!-- ![Rose kamal's github activity graph](https://activity-graph.herokuapp.com/graph?username=rosekamallove&theme=gruvbox) -->
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=rosekamallove" alt="V2dha" /> <a href="https://twitter.com/Vvdha"> </a>
-</p> 
+</p>
+
+![Waves](./assets/bottom-header.svg)
