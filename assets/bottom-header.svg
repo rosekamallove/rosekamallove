@@ -1,5 +1,6 @@
-<style>
+<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
+<style>
 svg {
   width:100vw;
   position:fixed;
@@ -7,17 +8,14 @@ svg {
   transform: rotate(360deg);
   overflow:visible;
 }
-
 .wave {
   animation: wave 3s linear;
   animation-iteration-count:infinite;
   fill: #4478e3;  
 }
-
 .wave:hover {
   fill: #0066cc;
 }
-
 #wave2 {
   animation-duration:5s;
   animation-direction: reverse;
@@ -30,8 +28,6 @@ svg {
 @keyframes wave {
   to {transform: translateX(-100%);}
 }
-
-
 </style>
 
  <defs> 
