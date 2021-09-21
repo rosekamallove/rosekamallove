@@ -30,4 +30,4 @@ rosekamallove@github.com
 </p>
 </details>
 
-![Waves](./assets/bottom-header.svg)
+<!-- ![Waves](./assets/bottom-header.svg) -->
