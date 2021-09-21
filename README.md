@@ -28,5 +28,6 @@ rosekamallove@github.com
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=rosekamallove" alt="V2dha" /> <a href="https://twitter.com/Vvdha"> </a>
 </p>
+</details>
 
 ![Waves](./assets/bottom-header.svg)
