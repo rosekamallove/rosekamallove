@@ -22,6 +22,9 @@ rosekamallove@github.com
   Visitors count:<br>
   <img src="https://profile-counter.glitch.me/rosekamallove/count.svg" />
 </p> -->
+<p align="center">
+  <img src="https://github.com/rosekamallove/rosekamallove/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
 <details closed>
  <p align="center">
