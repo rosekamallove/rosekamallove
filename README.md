@@ -18,6 +18,11 @@ rosekamallove@github.com
 <a href="https://goofy-sammet-fca865.netlify.app/">Porfolio-MLH<a>  <a href="https://rosekamallove.github.io">rosekamallove.github.io<a>  <a href="https://rosekamallove.github.io/Learn_CODE/">Learn_CODE<a>
 </pre>
 
+<!-- <p align="center"> 
+  Visitors count:<br>
+  <img src="https://profile-counter.glitch.me/rosekamallove/count.svg" />
+</p> -->
+
 <details closed>
  <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=rosekamallove&show_icons=true&line_height=27&theme=onedark" align="center">
