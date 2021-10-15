@@ -1,4 +1,6 @@
 <pre>
+<table align="center">
+<td>
 rosekamallove@github.com
 --------------------------------------------------------------------------------
 <b>Me         :</b>  Software Developer, Competetive Programmer and a Music Enthusiast
@@ -16,6 +18,8 @@ rosekamallove@github.com
 
 <b>Additional:</b>
 <a href="https://goofy-sammet-fca865.netlify.app/">Porfolio-MLH<a>  <a href="https://rosekamallove.github.io">rosekamallove.github.io<a>  <a href="https://rosekamallove.github.io/Learn_CODE/">Learn_CODE<a>
+</td>
+</table>
 </pre>
 
 <!-- <p align="center"> 
