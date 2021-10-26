@@ -9,7 +9,7 @@ rosekamallove@github.com
 --------------------------------------------------------------------------------
 
 <b>Let's get in touch</b>
-<a href="https://drive.google.com/file/d/16S4zJlCyRrM5e8k66Ng69h0f1Q1aRL04/view">Resume</a>  <a href="https://linkedin.com/in/rose-kamal-love-1146141b0/">LinkedIn</a>  <a href="https://rosekamallove.github.io">Portfolio</a>  <a href="mailto:private.rosekamallove@gmail.com">Email</a>
+<a href="https://drive.google.com/file/d/16S4zJlCyRrM5e8k66Ng69h0f1Q1aRL04/view">Resume</a>  <a href="https://linkedin.com/in/rose-kamal-love-1146141b0/">LinkedIn</a>  <a href="https://rosekamallove.vercel.app">Portfolio</a>  <a href="mailto:private.rosekamallove@gmail.com">Email</a>
 
 <b>Featured Projects </b>
 <a href="https://youtemy.tech/">YouTemy<a>  <a href="https://music-expanse.herokuapp.com/">Music Expanse<a>
