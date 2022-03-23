@@ -18,24 +18,27 @@ rosekamallove@github.com
 <a href="https://goofy-sammet-fca865.netlify.app/">Porfolio-MLH<a>  <a href="https://rosekamallove.github.io">rosekamallove.github.io<a>  <a href="https://rosekamallove.github.io/Learn_CODE/">Learn_CODE<a>
 </pre>
 
-<!-- <p align="center"> 
-  Visitors count:<br>
-  <img src="https://profile-counter.glitch.me/rosekamallove/count.svg" />
-</p> -->
+<!-- Contribution Grid -->
 <p align="center">
   <img src="https://github.com/rosekamallove/rosekamallove/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
+<p align="center" >
+  <!-- Contribution Stats -->
+  <img align="center" src = "https://github-readme-stats.vercel.app/api?username=rosekamallove&show_icons=true&line_height=27&theme=onedark" >
+  <br/>
+  <!-- Profile Views Stats -->
+  <img align="center" src="https://komarev.com/ghpvc/?username=rosekamallove" alt="rosek" />
+</p>
+
+
 <details closed>
- <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=rosekamallove&show_icons=true&line_height=27&theme=onedark" align="center">
-<!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rosekamallove&count_private=true&theme=onedark" alt="mostlypanda" /> -->
-</p>
+<summary>Cool GIFs</summary>
 
-<!-- ![Rose kamal's github activity graph](https://activity-graph.herokuapp.com/graph?username=rosekamallove&theme=gruvbox) -->
-<p align="center">  
-<img src="https://komarev.com/ghpvc/?username=rosekamallove" alt="V2dha" /> <a href="https://twitter.com/Vvdha"> </a>
-</p>
+![Waves](./assets/bottom-header.svg)
+
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+<img align="left" src="https://octodex.github.com/images/nyantocat.gif" width="30%">
+<img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="30%">
 </details>
-
-<!-- ![Waves](./assets/bottom-header.svg) -->
