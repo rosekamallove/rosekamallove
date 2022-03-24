@@ -33,11 +33,12 @@ rosekamallove@github.com
 
 
 <details closed>
-<summary>Cool GIFs</summary>
+<summary>Cool GIFs (Don't click the `matrix`)</summary>
+
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ![Waves](./assets/bottom-header.svg)
 
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <img align="left" src="https://octodex.github.com/images/nyantocat.gif" width="30%">
 <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="30%">
