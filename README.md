@@ -7,16 +7,16 @@ rosekamallove@github.com
 <b>Interests  :</b>  <b>Web-Development(Full-Stack)</b>, Automation, Open-Source Contribution
 <b>Education  :</b>  <a href="http://www.mjpru.ac.in/">MJPRU</a> B-Tech <b>(Computer Science & Information Technology) (2024)</b>
 --------------------------------------------------------------------------------
-<b>Featured Projects </b>
+<b>Featured Projects 🚀</b>
 <a href="https://youtemy.tech/">YouTemy<a>  <a href="https://music-expanse.herokuapp.com/">Music Expanse<a>
 
-<b>Additional Projects</b>
+<b>Additional Projects ⚒️</b>
 <a href="https://goofy-sammet-fca865.netlify.app/">Porfolio-MLH<a>  <a href="https://rosekamallove.github.io">rosekamallove.github.io<a>  <a href="https://rosekamallove.github.io/Learn_CODE/">Learn_CODE<a>
 
-<b>Let's Get in Touch</b>
+<b>Let's Get in Touch ✨</b>
 <a href="https://linkedin.com/in/rose-kamal-love-1146141b0/">LinkedIn</a>   <a href="mailto:private.rosekamallove@gmail.com">Email</a>
 
-<b>Hire me?</b>
+<b>Hire me? 🥺</b>
 <a href="https://drive.google.com/file/d/16S4zJlCyRrM5e8k66Ng69h0f1Q1aRL04/view">Resume</a>   <a href="https://rosekamallove.vercel.app">Portfolio</a>
 </pre>
 
