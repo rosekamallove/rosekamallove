@@ -25,9 +25,6 @@ rosekamallove@github.com
 </p>
 
 <p align="center" >
-  <!-- Contribution Stats -->
-  <img align="center" src = "https://github-readme-stats.vercel.app/api?username=rosekamallove&show_icons=true&line_height=27&theme=onedark" >
-  <br/>
   <!-- Profile Views Stats -->
   <img align="center" src="https://komarev.com/ghpvc/?username=rosekamallove" alt="rosek" />
 </p>
