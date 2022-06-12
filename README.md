@@ -2,8 +2,8 @@
 rosekamallove@github.com
 --------------------------------------------------------------------------------
 <b>Me         :</b>  Software Developer, Competetive Programmer and a Music Enthusiast
-<b>Languages  :</b>  JavaScript, C++, and Python
-<b>Frameworks :</b>  <b>ReactJS, Node & Express, MongoDB, Firesbase-Firestore and, Django</b>
+<b>Languages  :</b>  JavaScript(+TypeScript), C++, and Python
+<b>Frameworks :</b>  <b>Next.js, Node & Express, MongoDB, MySQL, Firesbase and, Django</b>
 <b>Interests  :</b>  <b>Web-Development(Full-Stack)</b>, Automation, Open-Source Contribution
 <b>Education  :</b>  <a href="http://www.mjpru.ac.in/">MJPRU</a> B-Tech <b>(Computer Science & Information Technology) (2024)</b>
 --------------------------------------------------------------------------------
