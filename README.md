@@ -19,15 +19,12 @@ rosekamallove@github.com
 <b>Let's Get in Touch ✨</b>
 <a href="https://linkedin.com/in/rose-kamal-love-1146141b0/">LinkedIn</a>   <a href="mailto:private.rosekamallove@gmail.com">Email</a>
 </pre>
-<!-- Contribution Grid -->
+<!-- Contribution Grid 
 <p align="center">
   <img src="https://github.com/rosekamallove/rosekamallove/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+</p>-->
 
-<p align="center" >
-  <!-- Profile Views Stats -->
-  <img align="center" src="https://komarev.com/ghpvc/?username=rosekamallove" alt="rosek" />
-</p>
+
 
 <details>	
   <summary><b>⚡ GitHub Stats</b></summary>
@@ -38,8 +35,12 @@ rosekamallove@github.com
 </details>
 
 <details>
-	<summary><b>🧲 GitHub Graph</b></summary>
+	<summary><b>📈 GitHub Graph</b></summary>
 	<img src="https://activity-graph.herokuapp.com/graph?username=rosekamallove&theme=minimal" />
+	<p align="center" >
+  <!-- Profile Views Stats -->
+  <img align="center" src="https://komarev.com/ghpvc/?username=rosekamallove" alt="rosek" />
+</p>
 </details>
 
 <details closed>
