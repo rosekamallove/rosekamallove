@@ -14,7 +14,7 @@ rosekamallove@github.com
 <b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">OnlyFans</a></b>  <a href="https://drive.google.com/file/d/16S4zJlCyRrM5e8k66Ng69h0f1Q1aRL04/view">Resume</a>  <a href="https://rosekamallove.vercel.app">Portfolio</a>  
 
 <b>Additional Projects ⚒️</b>
-<a href="https://goofy-sammet-fca865.netlify.app/">Porfolio-MLH<a>  <a href="https://rosekamallove.github.io">rosekamallove.github.io<a>  <a href="https://rosekamallove.github.io/Learn_CODE/">Learn_CODE<a>
+<a href="https://goofy-sammet-fca865.netlify.app/">Porfolio-MLH<a>  <a href="https://rosekamal.love">rosekamal.love<a>  <a href="https://rosekamallove.github.io/Learn_CODE/">Learn_CODE<a>
 
 <b>Let's Get in Touch ✨</b>
 <a href="https://linkedin.com/in/rose-kamal-love-1146141b0/">LinkedIn</a>   <a href="mailto:private.rosekamallove@gmail.com">Email</a>
