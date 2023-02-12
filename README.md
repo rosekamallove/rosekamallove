@@ -21,41 +21,10 @@ Additional Projects ⚒️
 Let's Get in Touch ✨
 <a href="https://linkedin.com/in/rose-kamal-love-1146141b0/">LinkedIn</a>   <a href="mailto:private.rosekamallove@gmail.com">Email</a>
 </pre>
-<!-- Contribution Grid 
-<p align="center">
-  <img src="https://github.com/rosekamallove/rosekamallove/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>-->
-
-
-
-<!-- <details>	
-  <summary><b>⚡ GitHub Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rosekamallove&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosekamallove&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>
-	<summary><b>📈 GitHub Graph</b></summary>
-	<img src="https://activity-graph.herokuapp.com/graph?username=rosekamallove&theme=minimal" />
-	<p align="center" >
   <!-- Profile Views Stats -->
   <img align="center" src="https://komarev.com/ghpvc/?username=rosekamallove" alt="rosek" />
 </p>
-</details>
 
-<details closed>
-<summary>💀 <b>Cool GIFs (Don't click the `matrix`)</b></summary>
-
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-![Waves](./assets/bottom-header.svg)
-
-
-<img align="left" src="https://octodex.github.com/images/nyantocat.gif" width="30%">
-<img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="30%">
-</details> -->
 
 <details>
 <summary>
