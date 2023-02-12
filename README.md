@@ -9,16 +9,16 @@
 <b>Interests  :</b>  <b>Web-Development(Full-Stack)</b>, Automation, Open-Source Contribution
 <b>Education  :</b>  <a href="http://www.mjpru.ac.in/">MJPRU</a> B-Tech <b>(Computer Science & Information Technology) (2024)</b>
 -------------------------------------------------------------------------------- -->
-<b>Featured Projects 🚀</b>
+Featured Projects 🚀
 <a href="https://youtemy.tech/">YouTemy<a>  <a href="https://music-expanse.herokuapp.com/">Music Expanse<a>
 
-<b>Hire me? 🥺</b>
+Hire me? 🥺
 <b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">OnlyFans</a></b>  <a href="https://drive.google.com/file/d/16S4zJlCyRrM5e8k66Ng69h0f1Q1aRL04/view">Resume</a>  <a href="https://rosekamal.lovev">Website</a>  
 
-<b>Additional Projects ⚒️</b>
+Additional Projects ⚒️
 <a href="https://goofy-sammet-fca865.netlify.app/">Porfolio-MLH<a>  <a href="https://rosekamal.love">rosekamal.love<a>  <a href="https://rosekamallove.github.io/Learn_CODE/">Learn_CODE<a>
 
-<b>Let's Get in Touch ✨</b>
+Let's Get in Touch ✨
 <a href="https://linkedin.com/in/rose-kamal-love-1146141b0/">LinkedIn</a>   <a href="mailto:private.rosekamallove@gmail.com">Email</a>
 </pre>
 <!-- Contribution Grid 
@@ -28,7 +28,7 @@
 
 
 
-<details>	
+<!-- <details>	
   <summary><b>⚡ GitHub Stats</b></summary>
 
   <br />
@@ -55,11 +55,11 @@
 
 <img align="left" src="https://octodex.github.com/images/nyantocat.gif" width="30%">
 <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="30%">
-</details>
+</details> -->
 
 <details>
 <summary>
-   😈 <b>Please Don't Click</b>
+   <b>Please Don't Click</b>
 </summary>
 <details>
 <summary>
