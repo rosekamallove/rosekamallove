@@ -1,17 +1,19 @@
 <pre>
-rosekamallove@github.com
---------------------------------------------------------------------------------
+<!-- private.rosekamallove@gmail.com -->
+
+<h3>[ <a href="https://rosekamal.lovev">rosekamal.love</a> - a friendle ambivert trying to make a life out of code ]</h3>
+<!-- --------------------------------------------------------------------------------
 <b>Me         :</b>  Software Developer, Competetive Programmer and a Music Enthusiast
 <b>Languages  :</b>  JavaScript(+TypeScript), C++, and Python
 <b>Frameworks :</b>  <b>Next.js, Node & Express, MongoDB, MySQL, Firesbase and, Django</b>
 <b>Interests  :</b>  <b>Web-Development(Full-Stack)</b>, Automation, Open-Source Contribution
 <b>Education  :</b>  <a href="http://www.mjpru.ac.in/">MJPRU</a> B-Tech <b>(Computer Science & Information Technology) (2024)</b>
---------------------------------------------------------------------------------
+-------------------------------------------------------------------------------- -->
 <b>Featured Projects 🚀</b>
 <a href="https://youtemy.tech/">YouTemy<a>  <a href="https://music-expanse.herokuapp.com/">Music Expanse<a>
 
 <b>Hire me? 🥺</b>
-<b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">OnlyFans</a></b>  <a href="https://drive.google.com/file/d/16S4zJlCyRrM5e8k66Ng69h0f1Q1aRL04/view">Resume</a>  <a href="https://rosekamallove.vercel.app">Portfolio</a>  
+<b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">OnlyFans</a></b>  <a href="https://drive.google.com/file/d/16S4zJlCyRrM5e8k66Ng69h0f1Q1aRL04/view">Resume</a>  <a href="https://rosekamal.lovev">Website</a>  
 
 <b>Additional Projects ⚒️</b>
 <a href="https://goofy-sammet-fca865.netlify.app/">Porfolio-MLH<a>  <a href="https://rosekamal.love">rosekamal.love<a>  <a href="https://rosekamallove.github.io/Learn_CODE/">Learn_CODE<a>
