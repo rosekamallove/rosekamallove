@@ -1,7 +1,7 @@
 <pre>
 <!-- private.rosekamallove@gmail.com -->
 
-<h3>[ <a href="https://rosekamal.love">rosekamal.love</a> - a friendle ambivert trying to make a life out of code ]</h3>
+<h3>[ <a href="https://rosekamal.love">rosekamal.love</a> - a friendly ambivert trying to make a life out of code ]</h3>
 <!-- --------------------------------------------------------------------------------
 <b>Me         :</b>  Software Developer, Competetive Programmer and a Music Enthusiast
 <b>Languages  :</b>  JavaScript(+TypeScript), C++, and Python
